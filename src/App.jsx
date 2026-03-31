@@ -78,8 +78,8 @@ const Card = ({ children, style = {} }) => (
 const NAV_LINKS = ["about", "education", "experience", "projects", "skills", "achievements", "contact"];
 
 const skills = {
-  "Languages": ["C++", "Java", "Python", "C#", "JavaScript", "TypeScript", "SQL"],
-  "Backend": ["Spring Boot", "REST APIs", "JWT Auth", "Spring Security", "Backend Architecture"],
+  "Languages": ["C++", "Java", "Python", "C#", "Go", "TypeScript", "SQL"],
+  "Backend": ["Go/Gin","REST APIs", "JWT Auth", "Backend Architecture"],
   "Databases": ["MongoDB", "MS SQL Server"],
   "Web": ["HTML", "CSS"],
   "Tools": ["Git", "GitHub", "Docker"],
@@ -87,8 +87,7 @@ const skills = {
 };
 
 const achievements = [
-  { title: "National Universities Math Olympiad Finalist", desc: "Ranked 16th nationally among Mongolia's undergraduate mathematics students.", icon: "🏅" },
-  { title: "MUST Mathematical Olympiad Finalist", desc: "Placed 16th among 65 final competitors.", icon: "🎓" },
+  { title: "MUST Mathematical Olympiad Finalist", desc: "Placed 15th among 65 final competitors; 5th among SICT participants.", icon: "🎓" },
   { title: "Best Graduate Award", desc: "Awarded Best Graduate in the school.", icon: "🎖️" },
   { title: "School Math Olympiad Winner", desc: "1st place in both Grade 7 and Grade 12.", icon: "🥇" },
   { title: "School IQ Olympiad Winner", desc: "1st place in Grade 8.", icon: "🥇" },
