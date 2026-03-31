@@ -390,7 +390,7 @@ export default function App() {
             <div className="hero-tags">
               <Tag>📍 Ulaanbaatar, Mongolia</Tag>
               <Tag>🎓 Final Year · MUST</Tag>
-              <Tag>Math Olympiad Finalist</Tag>
+              <Tag>Math and problem-solving enthusiast</Tag>
               <Tag>C1 English</Tag>
             </div>
 
@@ -433,7 +433,7 @@ export default function App() {
               <div className="about-grid">
                 <Card style={{ gridColumn: "1 / -1" }}>
                   <p style={{ fontSize: "clamp(0.9rem, 2vw, 1.05rem)", lineHeight: 1.8, color: "rgba(240,240,240,0.75)", fontWeight: 300 }}>
-                    Final-year Software Engineering student at MUST with strong interests in backend development, Linux systems, and software architecture. I work primarily with Java, C++, Python, and database technologies, and enjoy building secure and efficient systems using tools like Spring Boot and JWT.
+                    Final-year Software Engineering student at MUST with strong interests in backend development, Linux systems, and software architecture. I work primarily with Java, C++, Python, and database technologies, and enjoy building secure and efficient systems using tools like Go/Gin and JWT.
                   </p>
                   <p style={{ fontSize: "clamp(0.9rem, 2vw, 1.05rem)", lineHeight: 1.8, color: "rgba(240,240,240,0.75)", fontWeight: 300, marginTop: "1rem" }}>
                     My background in mathematics competitions shaped my analytical thinking, while my academic work has led me to explore AI research and integrate AI techniques into software engineering. Outside of programming, I create digital art and have published over 40 artworks exploring atmosphere, storytelling, and character design.
